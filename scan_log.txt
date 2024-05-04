@@ -1,0 +1,11 @@
+2024/05/03 20:14:17 Starting to scan common IPs
+2024/05/03 20:14:17 Checking IP: 10.0.0.1
+2024/05/03 20:14:17 Checking IP: 192.168.1.254
+2024/05/03 20:14:17 Checking IP: 192.168.1.1
+2024/05/03 20:14:17 Checking IP: 192.168.0.1
+2024/05/03 20:14:17 Checking IP: 192.168.100.1
+2024/05/03 20:14:20 Failed to check IP: 192.168.1.1, error: Get "http://192.168.1.1:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/05/03 20:14:20 Failed to check IP: 10.0.0.1, error: Get "http://10.0.0.1:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/05/03 20:14:20 Failed to check IP: 192.168.0.1, error: Get "http://192.168.0.1:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/05/03 20:14:20 Failed to check IP: 192.168.100.1, error: Get "http://192.168.100.1:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024/05/03 20:14:20 Failed to check IP: 192.168.1.254, error: Get "http://192.168.1.254:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
